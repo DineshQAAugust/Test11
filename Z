@@ -1,6 +1,6 @@
 class Z{
 
-System.out.println("Z XXXXXXX");
+Sym.out.println("Z XXXXXXX");
 
 }
 
