@@ -1,6 +1,7 @@
 class Z{
 
-
-System.out.println("Z Remote");
+System.out.println("Z Local");
 
 }
+
+
